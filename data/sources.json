@@ -1,0 +1,26 @@
+{
+  "disclaimer": "此檔案為示範來源清單，僅用於後續擴充 routes.json 時追溯參考，並非完整資料庫。",
+  "sources": [
+    {
+      "name": "內政部國家公園署",
+      "url": "https://www.nps.gov.tw/",
+      "type": "官方機關",
+      "notes": "可查步道公告、管制與相關規範。",
+      "lastChecked": "2026-09-14"
+    },
+    {
+      "name": "林業及自然保育署台灣山林悠遊網",
+      "url": "https://recreation.forest.gov.tw/",
+      "type": "官方機關",
+      "notes": "可查森林步道與路況資訊。",
+      "lastChecked": "2026-09-14"
+    },
+    {
+      "name": "各縣市政府觀光或步道專區",
+      "url": "",
+      "type": "地方政府",
+      "notes": "地方步道資訊仍需逐筆核對。",
+      "lastChecked": "2026-09-14"
+    }
+  ]
+}
