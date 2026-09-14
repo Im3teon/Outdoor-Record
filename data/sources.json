@@ -1,15 +1,25 @@
 {
-  "disclaimer": "此檔案用於追蹤 routes.json 的資料來源與核對進度。現階段已先完成百岳/小百岳名錄收錄，古道/自然步道/郊山將依地區與官方來源逐批補齊。",
+  "disclaimer": "此檔案用於追蹤 routes.json 的資料來源與核對進度。第 2 階段已開始，已先補齊北部古道/自然步道/郊山批次，後續將依地區與官方來源持續擴充。",
   "currentPhase": {
-    "phase": 1,
-    "title": "百岳 + 小百岳名錄先收錄",
-    "status": "completed"
+    "phase": 2,
+    "title": "古道 / 自然步道 / 郊山依地區補齊（北→中→南→東→離島）",
+    "status": "in-progress",
+    "completedRegions": [
+      "北部"
+    ],
+    "nextRegion": "中部"
   },
   "nextPhases": [
     {
       "phase": 2,
       "title": "古道 / 自然步道 / 郊山依地區補齊（北→中→南→東→離島）",
-      "status": "in-progress"
+      "status": "in-progress",
+      "remainingRegions": [
+        "中部",
+        "南部",
+        "東部",
+        "離島"
+      ]
     },
     {
       "phase": 3,

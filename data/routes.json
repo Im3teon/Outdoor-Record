@@ -5271,5 +5271,607 @@
     "sourceUrl": "",
     "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
     "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-north-001",
+    "name": "金字碑古道（示範段）",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "新北市"
+    ],
+    "categories": [
+      "古道"
+    ],
+    "mountains": [
+      "金字碑古道"
+    ],
+    "difficulty": "中等",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段北部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-north-002",
+    "name": "燦光寮古道（示範段）",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "新北市"
+    ],
+    "categories": [
+      "古道"
+    ],
+    "mountains": [
+      "燦光寮古道"
+    ],
+    "difficulty": "中等",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段北部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-north-003",
+    "name": "魚路古道北段（示範段）",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "臺北市",
+      "新北市"
+    ],
+    "categories": [
+      "古道"
+    ],
+    "mountains": [
+      "魚路古道北段"
+    ],
+    "difficulty": "中等",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段北部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-north-004",
+    "name": "坪溪古道（示範段）",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "新北市"
+    ],
+    "categories": [
+      "古道"
+    ],
+    "mountains": [
+      "坪溪古道"
+    ],
+    "difficulty": "中等",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段北部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-north-005",
+    "name": "三貂嶺古道（示範段）",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "新北市"
+    ],
+    "categories": [
+      "古道"
+    ],
+    "mountains": [
+      "三貂嶺古道"
+    ],
+    "difficulty": "中等",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段北部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-north-006",
+    "name": "哈盆越嶺古道（示範段）",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "新北市"
+    ],
+    "categories": [
+      "古道"
+    ],
+    "mountains": [
+      "哈盆越嶺古道"
+    ],
+    "difficulty": "困難",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段北部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-north-007",
+    "name": "淡蘭古道中路（示範段）",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "新北市"
+    ],
+    "categories": [
+      "古道"
+    ],
+    "mountains": [
+      "淡蘭古道中路"
+    ],
+    "difficulty": "中等",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段北部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-north-008",
+    "name": "鼻頭角步道",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "新北市"
+    ],
+    "categories": [
+      "自然步道"
+    ],
+    "mountains": [
+      "鼻頭角步道"
+    ],
+    "difficulty": "簡單",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段北部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-north-009",
+    "name": "龍洞灣岬步道",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "新北市"
+    ],
+    "categories": [
+      "自然步道"
+    ],
+    "mountains": [
+      "龍洞灣岬步道"
+    ],
+    "difficulty": "簡單",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段北部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-north-010",
+    "name": "觀霧檜山巨木群步道",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "新竹縣"
+    ],
+    "categories": [
+      "自然步道"
+    ],
+    "mountains": [
+      "觀霧檜山巨木群步道"
+    ],
+    "difficulty": "中等",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段北部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-north-011",
+    "name": "滿月圓森林步道",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "新北市"
+    ],
+    "categories": [
+      "自然步道"
+    ],
+    "mountains": [
+      "滿月圓森林步道"
+    ],
+    "difficulty": "簡單",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段北部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-north-012",
+    "name": "內洞森林步道",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "新北市"
+    ],
+    "categories": [
+      "自然步道"
+    ],
+    "mountains": [
+      "內洞森林步道"
+    ],
+    "difficulty": "簡單",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段北部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-north-013",
+    "name": "拉拉山神木步道",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "桃園市"
+    ],
+    "categories": [
+      "自然步道"
+    ],
+    "mountains": [
+      "拉拉山神木步道"
+    ],
+    "difficulty": "簡單",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段北部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-north-014",
+    "name": "福巴越嶺步道（示範段）",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "桃園市",
+      "新竹縣"
+    ],
+    "categories": [
+      "自然步道"
+    ],
+    "mountains": [
+      "福巴越嶺步道"
+    ],
+    "difficulty": "中等",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段北部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-north-015",
+    "name": "軍艦岩親山步道",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "臺北市"
+    ],
+    "categories": [
+      "郊山"
+    ],
+    "mountains": [
+      "軍艦岩親山步道"
+    ],
+    "difficulty": "簡單",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段北部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-north-016",
+    "name": "天母古道親山步道",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "臺北市"
+    ],
+    "categories": [
+      "郊山"
+    ],
+    "mountains": [
+      "天母古道親山步道"
+    ],
+    "difficulty": "簡單",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段北部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-north-017",
+    "name": "仙跡岩步道",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "臺北市"
+    ],
+    "categories": [
+      "郊山"
+    ],
+    "mountains": [
+      "仙跡岩步道"
+    ],
+    "difficulty": "簡單",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段北部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-north-018",
+    "name": "忠義山步道",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "臺北市"
+    ],
+    "categories": [
+      "郊山"
+    ],
+    "mountains": [
+      "忠義山步道"
+    ],
+    "difficulty": "簡單",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段北部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-north-019",
+    "name": "皇帝殿東西峰步道",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "新北市"
+    ],
+    "categories": [
+      "郊山"
+    ],
+    "mountains": [
+      "皇帝殿東西峰步道"
+    ],
+    "difficulty": "中等",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段北部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-north-020",
+    "name": "五寮尖登山步道",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "新北市"
+    ],
+    "categories": [
+      "郊山"
+    ],
+    "mountains": [
+      "五寮尖登山步道"
+    ],
+    "difficulty": "中等",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段北部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-north-021",
+    "name": "大溝溪治山步道",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "臺北市"
+    ],
+    "categories": [
+      "郊山"
+    ],
+    "mountains": [
+      "大溝溪治山步道"
+    ],
+    "difficulty": "簡單",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段北部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-north-022",
+    "name": "石門青山瀑布步道",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "新北市"
+    ],
+    "categories": [
+      "自然步道"
+    ],
+    "mountains": [
+      "石門青山瀑布步道"
+    ],
+    "difficulty": "簡單",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段北部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-north-023",
+    "name": "林美石磐步道",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "宜蘭縣"
+    ],
+    "categories": [
+      "自然步道"
+    ],
+    "mountains": [
+      "林美石磐步道"
+    ],
+    "difficulty": "簡單",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段北部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-north-024",
+    "name": "松羅步道",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "宜蘭縣"
+    ],
+    "categories": [
+      "自然步道"
+    ],
+    "mountains": [
+      "松羅步道"
+    ],
+    "difficulty": "簡單",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段北部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-north-025",
+    "name": "拳頭姆自然步道",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "宜蘭縣"
+    ],
+    "categories": [
+      "自然步道"
+    ],
+    "mountains": [
+      "拳頭姆自然步道"
+    ],
+    "difficulty": "中等",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段北部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
   }
 ]
