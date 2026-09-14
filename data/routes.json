@@ -5873,5 +5873,607 @@
     "sourceUrl": "",
     "notes": "第 2 階段北部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
     "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-central-001",
+    "name": "八通關古道（東段示範）",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "南投縣",
+      "花蓮縣"
+    ],
+    "categories": [
+      "古道"
+    ],
+    "mountains": [
+      "八通關古道（東段示範）"
+    ],
+    "difficulty": "困難",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段中部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-central-002",
+    "name": "能高越嶺道西段（示範）",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "南投縣"
+    ],
+    "categories": [
+      "古道"
+    ],
+    "mountains": [
+      "能高越嶺道西段"
+    ],
+    "difficulty": "中等",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段中部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-central-003",
+    "name": "合歡越嶺古道（示範段）",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "南投縣",
+      "花蓮縣"
+    ],
+    "categories": [
+      "古道"
+    ],
+    "mountains": [
+      "合歡越嶺古道"
+    ],
+    "difficulty": "中等",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段中部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-central-004",
+    "name": "鹿港古道（示範段）",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "南投縣"
+    ],
+    "categories": [
+      "古道"
+    ],
+    "mountains": [
+      "鹿港古道"
+    ],
+    "difficulty": "中等",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段中部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-central-005",
+    "name": "郡大林道歷史路段（示範）",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "南投縣"
+    ],
+    "categories": [
+      "古道"
+    ],
+    "mountains": [
+      "郡大林道歷史路段"
+    ],
+    "difficulty": "中等",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段中部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-central-006",
+    "name": "谷關七雄舊道串聯（示範）",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "臺中市"
+    ],
+    "categories": [
+      "古道"
+    ],
+    "mountains": [
+      "谷關七雄舊道串聯"
+    ],
+    "difficulty": "困難",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段中部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-central-007",
+    "name": "大坑步道 1-4 號（示範段）",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "臺中市"
+    ],
+    "categories": [
+      "古道"
+    ],
+    "mountains": [
+      "大坑步道 1-4 號"
+    ],
+    "difficulty": "中等",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段中部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-central-008",
+    "name": "武界越嶺古道路段（示範）",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "南投縣"
+    ],
+    "categories": [
+      "古道"
+    ],
+    "mountains": [
+      "武界越嶺古道路段"
+    ],
+    "difficulty": "中等",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段中部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-central-009",
+    "name": "奧萬大森林遊樂區步道群（示範）",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "南投縣"
+    ],
+    "categories": [
+      "自然步道"
+    ],
+    "mountains": [
+      "奧萬大森林遊樂區步道群"
+    ],
+    "difficulty": "簡單",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段中部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-central-010",
+    "name": "溪頭神木與大學池步道（示範）",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "南投縣"
+    ],
+    "categories": [
+      "自然步道"
+    ],
+    "mountains": [
+      "溪頭神木與大學池步道"
+    ],
+    "difficulty": "簡單",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段中部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-central-011",
+    "name": "杉林溪天地眼步道（示範）",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "南投縣"
+    ],
+    "categories": [
+      "自然步道"
+    ],
+    "mountains": [
+      "杉林溪天地眼步道"
+    ],
+    "difficulty": "中等",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段中部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-central-012",
+    "name": "忘憂森林周邊步道（示範）",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "南投縣"
+    ],
+    "categories": [
+      "自然步道"
+    ],
+    "mountains": [
+      "忘憂森林周邊步道"
+    ],
+    "difficulty": "中等",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段中部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-central-013",
+    "name": "大雪山國家森林步道群（示範）",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "臺中市"
+    ],
+    "categories": [
+      "自然步道"
+    ],
+    "mountains": [
+      "大雪山國家森林步道群"
+    ],
+    "difficulty": "中等",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段中部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-central-014",
+    "name": "東勢林場森林步道（示範）",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "臺中市"
+    ],
+    "categories": [
+      "自然步道"
+    ],
+    "mountains": [
+      "東勢林場森林步道"
+    ],
+    "difficulty": "簡單",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段中部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-central-015",
+    "name": "日月潭環湖步道（示範段）",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "南投縣"
+    ],
+    "categories": [
+      "自然步道"
+    ],
+    "mountains": [
+      "日月潭環湖步道"
+    ],
+    "difficulty": "簡單",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段中部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-central-016",
+    "name": "埔里虎頭山自然步道",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "南投縣"
+    ],
+    "categories": [
+      "自然步道"
+    ],
+    "mountains": [
+      "埔里虎頭山自然步道"
+    ],
+    "difficulty": "簡單",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段中部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-central-017",
+    "name": "阿里山溪森林步道（示範）",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "雲林縣"
+    ],
+    "categories": [
+      "自然步道"
+    ],
+    "mountains": [
+      "阿里山溪森林步道"
+    ],
+    "difficulty": "中等",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段中部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-central-018",
+    "name": "九九峰森林步道（示範）",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "南投縣"
+    ],
+    "categories": [
+      "郊山"
+    ],
+    "mountains": [
+      "九九峰森林步道"
+    ],
+    "difficulty": "中等",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段中部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-central-019",
+    "name": "頭嵙山稜線步道（示範）",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "臺中市"
+    ],
+    "categories": [
+      "郊山"
+    ],
+    "mountains": [
+      "頭嵙山稜線步道"
+    ],
+    "difficulty": "中等",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段中部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-central-020",
+    "name": "鐵砧山風景區步道",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "臺中市"
+    ],
+    "categories": [
+      "郊山"
+    ],
+    "mountains": [
+      "鐵砧山風景區步道"
+    ],
+    "difficulty": "簡單",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段中部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-central-021",
+    "name": "鰲峰山觀景步道",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "臺中市"
+    ],
+    "categories": [
+      "郊山"
+    ],
+    "mountains": [
+      "鰲峰山觀景步道"
+    ],
+    "difficulty": "簡單",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段中部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-central-022",
+    "name": "大肚山縱走步道（示範段）",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "臺中市"
+    ],
+    "categories": [
+      "郊山"
+    ],
+    "mountains": [
+      "大肚山縱走步道"
+    ],
+    "difficulty": "中等",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段中部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-central-023",
+    "name": "八卦山脈步道系統（示範段）",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "彰化縣"
+    ],
+    "categories": [
+      "郊山"
+    ],
+    "mountains": [
+      "八卦山脈步道系統"
+    ],
+    "difficulty": "簡單",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段中部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-central-024",
+    "name": "獅頭山風景區步道（中部段示範）",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "苗栗縣"
+    ],
+    "categories": [
+      "郊山"
+    ],
+    "mountains": [
+      "獅頭山風景區步道"
+    ],
+    "difficulty": "中等",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段中部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-central-025",
+    "name": "火炎山稜線步道（示範段）",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "苗栗縣"
+    ],
+    "categories": [
+      "郊山"
+    ],
+    "mountains": [
+      "火炎山稜線步道"
+    ],
+    "difficulty": "中等",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段中部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
   }
 ]

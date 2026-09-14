@@ -1,13 +1,14 @@
 {
-  "disclaimer": "此檔案用於追蹤 routes.json 的資料來源與核對進度。第 2 階段已開始，已先補齊北部古道/自然步道/郊山批次，後續將依地區與官方來源持續擴充。",
+  "disclaimer": "此檔案用於追蹤 routes.json 的資料來源與核對進度。第 2 階段已完成北部與中部批次，後續將依地區與官方來源持續擴充。",
   "currentPhase": {
     "phase": 2,
     "title": "古道 / 自然步道 / 郊山依地區補齊（北→中→南→東→離島）",
     "status": "in-progress",
     "completedRegions": [
-      "北部"
+      "北部",
+      "中部"
     ],
-    "nextRegion": "中部"
+    "nextRegion": "南部"
   },
   "nextPhases": [
     {
@@ -15,7 +16,6 @@
       "title": "古道 / 自然步道 / 郊山依地區補齊（北→中→南→東→離島）",
       "status": "in-progress",
       "remainingRegions": [
-        "中部",
         "南部",
         "東部",
         "離島"
