@@ -1,0 +1,53 @@
+{
+  "disclaimer": "此檔案用於追蹤 routes.json 的資料來源與核對進度。第 2 階段已完成北部與中部批次，後續將依地區與官方來源持續擴充。",
+  "currentPhase": {
+    "phase": 2,
+    "title": "古道 / 自然步道 / 郊山依地區補齊（北→中→南→東→離島）",
+    "status": "in-progress",
+    "completedRegions": [
+      "北部",
+      "中部"
+    ],
+    "nextRegion": "南部"
+  },
+  "nextPhases": [
+    {
+      "phase": 2,
+      "title": "古道 / 自然步道 / 郊山依地區補齊（北→中→南→東→離島）",
+      "status": "in-progress",
+      "remainingRegions": [
+        "南部",
+        "東部",
+        "離島"
+      ]
+    },
+    {
+      "phase": 3,
+      "title": "依官方來源逐筆核對並補齊欄位",
+      "status": "planned"
+    }
+  ],
+  "sources": [
+    {
+      "name": "內政部國家公園署",
+      "url": "https://www.nps.gov.tw/",
+      "type": "官方機關",
+      "notes": "用於國家公園路線公告、申請與管制規則核對。",
+      "lastChecked": "2026-09-14"
+    },
+    {
+      "name": "農業部林業及自然保育署台灣山林悠遊網",
+      "url": "https://recreation.forest.gov.tw/",
+      "type": "官方機關",
+      "notes": "用於森林步道資訊、路況與維護狀態核對。",
+      "lastChecked": "2026-09-14"
+    },
+    {
+      "name": "第三方公開山岳名錄（僅作第一階段名錄整理參考）",
+      "url": "https://github.com/begin0808/ClimbSmart",
+      "type": "第三方參考",
+      "notes": "本專案僅引用百岳/小百岳名稱整理，詳細路線與申請規定仍以官方來源為準。",
+      "lastChecked": "2026-09-14"
+    }
+  ]
+}

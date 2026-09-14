@@ -1,0 +1,6479 @@
+[
+  {
+    "id": "taipei-xiangshan",
+    "name": "象山親山步道",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "臺北市"
+    ],
+    "categories": [
+      "郊山"
+    ],
+    "mountains": [
+      "象山"
+    ],
+    "difficulty": "簡單",
+    "distanceKm": 1.5,
+    "elevationGainM": 180,
+    "estimatedHours": 1.5,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "初始示範資料，數值僅供格式展示，後續請依可靠來源核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "taipei-qixing-main",
+    "name": "七星山主峰步道",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "臺北市",
+      "新北市"
+    ],
+    "categories": [
+      "郊山",
+      "自然步道"
+    ],
+    "mountains": [
+      "七星山"
+    ],
+    "difficulty": "中等",
+    "distanceKm": 5.4,
+    "elevationGainM": 650,
+    "estimatedHours": 4.5,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "初始示範資料，路線長度與時間為概略值。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "yilan-caoling-trail",
+    "name": "草嶺古道",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "新北市",
+      "宜蘭縣"
+    ],
+    "categories": [
+      "古道"
+    ],
+    "mountains": [
+      "灣坑頭山"
+    ],
+    "difficulty": "中等",
+    "distanceKm": 8.3,
+    "elevationGainM": 450,
+    "estimatedHours": 4.5,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "初始示範資料，古道分段資訊待補。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "newtaipei-danlan-north",
+    "name": "淡蘭古道北路（示範段）",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "新北市"
+    ],
+    "categories": [
+      "古道"
+    ],
+    "mountains": [
+      "三貂嶺周邊"
+    ],
+    "difficulty": "中等",
+    "distanceKm": 10.2,
+    "elevationGainM": 520,
+    "estimatedHours": 5,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "初始示範資料，僅供資料模型測試。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "hsinchu-xiakaluo",
+    "name": "霞喀羅古道",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "新竹縣"
+    ],
+    "categories": [
+      "古道"
+    ],
+    "mountains": [
+      "白石駐在所遺址周邊"
+    ],
+    "difficulty": "中等",
+    "distanceKm": 16,
+    "elevationGainM": 900,
+    "estimatedHours": 8,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "初始示範資料，季節路況請另外確認。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "chiayi-alishan-tefuye",
+    "name": "特富野古道",
+    "regions": [
+      "南部"
+    ],
+    "counties": [
+      "嘉義縣"
+    ],
+    "categories": [
+      "古道",
+      "自然步道"
+    ],
+    "mountains": [
+      "特富野周邊"
+    ],
+    "difficulty": "中等",
+    "distanceKm": 6.3,
+    "elevationGainM": 380,
+    "estimatedHours": 3.5,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "初始示範資料，部分路段可能視維護狀況調整。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "chiayi-erlianping-trail",
+    "name": "二延平步道",
+    "regions": [
+      "南部"
+    ],
+    "counties": [
+      "嘉義縣"
+    ],
+    "categories": [
+      "自然步道"
+    ],
+    "mountains": [
+      "隙頂周邊"
+    ],
+    "difficulty": "簡單",
+    "distanceKm": 1.2,
+    "elevationGainM": 120,
+    "estimatedHours": 1,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "初始示範資料，雲海景觀常見於清晨或黃昏。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "hualien-shakadang",
+    "name": "砂卡礑步道",
+    "regions": [
+      "東部"
+    ],
+    "counties": [
+      "花蓮縣"
+    ],
+    "categories": [
+      "自然步道"
+    ],
+    "mountains": [
+      "太魯閣峽谷周邊"
+    ],
+    "difficulty": "簡單",
+    "distanceKm": 4.1,
+    "elevationGainM": 120,
+    "estimatedHours": 2,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "初始示範資料，實際開放狀態請查國家公園公告。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "pingtung-taitung-alangyi",
+    "name": "阿塱壹古道",
+    "regions": [
+      "南部",
+      "東部"
+    ],
+    "counties": [
+      "屏東縣",
+      "臺東縣"
+    ],
+    "categories": [
+      "古道"
+    ],
+    "mountains": [
+      "旭海至南田海岸段"
+    ],
+    "difficulty": "中等",
+    "distanceKm": 8.4,
+    "elevationGainM": 260,
+    "estimatedHours": 4.5,
+    "permitRequired": true,
+    "sourceUrl": "",
+    "notes": "初始示範資料，導覽與申請規範請以地方管理單位公告為準。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "kinmen-taiwu",
+    "name": "太武山步道",
+    "regions": [
+      "離島"
+    ],
+    "counties": [
+      "金門縣"
+    ],
+    "categories": [
+      "郊山",
+      "自然步道"
+    ],
+    "mountains": [
+      "太武山"
+    ],
+    "difficulty": "簡單",
+    "distanceKm": 4,
+    "elevationGainM": 280,
+    "estimatedHours": 2.5,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "初始示範資料，離島交通時間請另行估算。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "matsu-daqiu-trail",
+    "name": "大坵島環島步道",
+    "regions": [
+      "離島"
+    ],
+    "counties": [
+      "連江縣"
+    ],
+    "categories": [
+      "自然步道"
+    ],
+    "mountains": [
+      "大坵島"
+    ],
+    "difficulty": "簡單",
+    "distanceKm": 2.6,
+    "elevationGainM": 140,
+    "estimatedHours": 1.5,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "初始示範資料，船班與登島規範可能調整。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "penghu-shetoushan",
+    "name": "蛇頭山步道",
+    "regions": [
+      "離島"
+    ],
+    "counties": [
+      "澎湖縣"
+    ],
+    "categories": [
+      "自然步道",
+      "郊山"
+    ],
+    "mountains": [
+      "蛇頭山"
+    ],
+    "difficulty": "簡單",
+    "distanceKm": 1.8,
+    "elevationGainM": 90,
+    "estimatedHours": 1,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "初始示範資料，夏季高溫需注意防曬。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "yilan-shengmu-matcha",
+    "name": "聖母登山步道（抹茶山）",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "宜蘭縣"
+    ],
+    "categories": [
+      "郊山"
+    ],
+    "mountains": [
+      "三角崙山"
+    ],
+    "difficulty": "中等",
+    "distanceKm": 10,
+    "elevationGainM": 850,
+    "estimatedHours": 6,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "初始示範資料，雨季濕滑請注意裝備。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-001",
+    "name": "玉山主峰",
+    "regions": [
+      "中部",
+      "南部"
+    ],
+    "counties": [
+      "南投縣",
+      "嘉義縣",
+      "高雄市"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "玉山主峰"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-002",
+    "name": "雪山主峰",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "臺中市",
+      "苗栗縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "雪山主峰"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-003",
+    "name": "玉山東峰",
+    "regions": [
+      "中部",
+      "南部"
+    ],
+    "counties": [
+      "南投縣",
+      "高雄市"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "玉山東峰"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-004",
+    "name": "玉山北峰",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "南投縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "玉山北峰"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-005",
+    "name": "玉山南峰",
+    "regions": [
+      "南部"
+    ],
+    "counties": [
+      "高雄市"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "玉山南峰"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-006",
+    "name": "秀姑巒山",
+    "regions": [
+      "中部",
+      "東部"
+    ],
+    "counties": [
+      "南投縣",
+      "花蓮縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "秀姑巒山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-007",
+    "name": "馬博拉斯山",
+    "regions": [
+      "中部",
+      "東部"
+    ],
+    "counties": [
+      "南投縣",
+      "花蓮縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "馬博拉斯山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-008",
+    "name": "南湖大山",
+    "regions": [
+      "中部",
+      "東部",
+      "北部"
+    ],
+    "counties": [
+      "臺中市",
+      "花蓮縣",
+      "宜蘭縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "南湖大山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-009",
+    "name": "東小南山",
+    "regions": [
+      "南部"
+    ],
+    "counties": [
+      "高雄市"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "東小南山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-010",
+    "name": "中央尖山",
+    "regions": [
+      "中部",
+      "東部"
+    ],
+    "counties": [
+      "臺中市",
+      "花蓮縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "中央尖山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-011",
+    "name": "雪山北峰",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "臺中市",
+      "苗栗縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "雪山北峰"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-012",
+    "name": "大水窟山",
+    "regions": [
+      "中部",
+      "東部"
+    ],
+    "counties": [
+      "南投縣",
+      "花蓮縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "大水窟山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-013",
+    "name": "關山",
+    "regions": [
+      "南部",
+      "東部"
+    ],
+    "counties": [
+      "高雄市",
+      "臺東縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "關山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-014",
+    "name": "南湖大山東峰",
+    "regions": [
+      "中部",
+      "北部",
+      "東部"
+    ],
+    "counties": [
+      "臺中市",
+      "宜蘭縣",
+      "花蓮縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "南湖大山東峰"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-015",
+    "name": "東郡大山",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "南投縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "東郡大山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-016",
+    "name": "奇萊主山北峰",
+    "regions": [
+      "中部",
+      "東部"
+    ],
+    "counties": [
+      "南投縣",
+      "花蓮縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "奇萊主山北峰"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-017",
+    "name": "向陽山",
+    "regions": [
+      "南部",
+      "東部"
+    ],
+    "counties": [
+      "高雄市",
+      "臺東縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "向陽山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-018",
+    "name": "大劍山",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "臺中市"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "大劍山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-019",
+    "name": "雲峰",
+    "regions": [
+      "南部"
+    ],
+    "counties": [
+      "高雄市"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "雲峰"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-020",
+    "name": "奇萊主山",
+    "regions": [
+      "中部",
+      "東部"
+    ],
+    "counties": [
+      "南投縣",
+      "花蓮縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "奇萊主山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-021",
+    "name": "馬利加南山",
+    "regions": [
+      "中部",
+      "東部"
+    ],
+    "counties": [
+      "南投縣",
+      "花蓮縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "馬利加南山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-022",
+    "name": "南湖北山",
+    "regions": [
+      "中部",
+      "北部",
+      "東部"
+    ],
+    "counties": [
+      "臺中市",
+      "宜蘭縣",
+      "花蓮縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "南湖北山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-023",
+    "name": "大雪山",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "臺中市",
+      "苗栗縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "大雪山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-024",
+    "name": "品田山",
+    "regions": [
+      "中部",
+      "北部"
+    ],
+    "counties": [
+      "臺中市",
+      "新竹縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "品田山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-025",
+    "name": "玉山西峰",
+    "regions": [
+      "中部",
+      "南部"
+    ],
+    "counties": [
+      "南投縣",
+      "嘉義縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "玉山西峰"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-026",
+    "name": "頭鷹山",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "臺中市",
+      "苗栗縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "頭鷹山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-027",
+    "name": "三叉山",
+    "regions": [
+      "南部",
+      "東部"
+    ],
+    "counties": [
+      "高雄市",
+      "花蓮縣",
+      "臺東縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "三叉山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-028",
+    "name": "大霸尖山",
+    "regions": [
+      "北部",
+      "中部"
+    ],
+    "counties": [
+      "新竹縣",
+      "苗栗縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "大霸尖山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-029",
+    "name": "南湖大山南峰",
+    "regions": [
+      "中部",
+      "東部"
+    ],
+    "counties": [
+      "臺中市",
+      "花蓮縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "南湖大山南峰"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-030",
+    "name": "東巒大山",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "南投縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "東巒大山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-031",
+    "name": "無明山",
+    "regions": [
+      "中部",
+      "東部"
+    ],
+    "counties": [
+      "臺中市",
+      "花蓮縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "無明山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-032",
+    "name": "巴巴山",
+    "regions": [
+      "中部",
+      "東部"
+    ],
+    "counties": [
+      "臺中市",
+      "花蓮縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "巴巴山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-033",
+    "name": "合歡東峰",
+    "regions": [
+      "中部",
+      "東部"
+    ],
+    "counties": [
+      "南投縣",
+      "花蓮縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "合歡東峰"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-034",
+    "name": "合歡山北峰",
+    "regions": [
+      "中部",
+      "東部"
+    ],
+    "counties": [
+      "南投縣",
+      "花蓮縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "合歡山北峰"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-035",
+    "name": "合歡山主峰",
+    "regions": [
+      "中部",
+      "東部"
+    ],
+    "counties": [
+      "南投縣",
+      "花蓮縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "合歡山主峰"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-036",
+    "name": "石門山",
+    "regions": [
+      "中部",
+      "東部"
+    ],
+    "counties": [
+      "南投縣",
+      "花蓮縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "石門山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-037",
+    "name": "合歡西峰",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "南投縣",
+      "臺中市"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "合歡西峰"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-038",
+    "name": "八通關山",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "南投縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "八通關山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-039",
+    "name": "西巒大山",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "南投縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "西巒大山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-040",
+    "name": "郡大山",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "南投縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "郡大山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-041",
+    "name": "北大武山",
+    "regions": [
+      "南部",
+      "東部"
+    ],
+    "counties": [
+      "屏東縣",
+      "臺東縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "北大武山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-042",
+    "name": "池有山",
+    "regions": [
+      "中部",
+      "北部"
+    ],
+    "counties": [
+      "臺中市",
+      "新竹縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "池有山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-043",
+    "name": "桃山",
+    "regions": [
+      "中部",
+      "北部"
+    ],
+    "counties": [
+      "臺中市",
+      "新竹縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "桃山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-044",
+    "name": "喀拉業山",
+    "regions": [
+      "中部",
+      "北部"
+    ],
+    "counties": [
+      "臺中市",
+      "新竹縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "喀拉業山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-045",
+    "name": "志佳陽大山",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "臺中市"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "志佳陽大山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-046",
+    "name": "小霸尖山",
+    "regions": [
+      "北部",
+      "中部"
+    ],
+    "counties": [
+      "新竹縣",
+      "苗栗縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "小霸尖山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-047",
+    "name": "畢祿山",
+    "regions": [
+      "中部",
+      "東部"
+    ],
+    "counties": [
+      "南投縣",
+      "花蓮縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "畢祿山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-048",
+    "name": "羊頭山",
+    "regions": [
+      "東部"
+    ],
+    "counties": [
+      "花蓮縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "羊頭山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-049",
+    "name": "奇萊南峰",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "南投縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "奇萊南峰"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-050",
+    "name": "南華山",
+    "regions": [
+      "中部",
+      "東部"
+    ],
+    "counties": [
+      "南投縣",
+      "花蓮縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "南華山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-051",
+    "name": "屏風山",
+    "regions": [
+      "東部"
+    ],
+    "counties": [
+      "花蓮縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "屏風山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-052",
+    "name": "能高山主峰",
+    "regions": [
+      "中部",
+      "東部"
+    ],
+    "counties": [
+      "南投縣",
+      "花蓮縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "能高山主峰"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-053",
+    "name": "能高山南峰",
+    "regions": [
+      "中部",
+      "東部"
+    ],
+    "counties": [
+      "南投縣",
+      "花蓮縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "能高山南峰"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-054",
+    "name": "光頭山",
+    "regions": [
+      "中部",
+      "東部"
+    ],
+    "counties": [
+      "南投縣",
+      "花蓮縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "光頭山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-055",
+    "name": "白石山",
+    "regions": [
+      "中部",
+      "東部"
+    ],
+    "counties": [
+      "南投縣",
+      "花蓮縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "白石山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-056",
+    "name": "安東軍山",
+    "regions": [
+      "中部",
+      "東部"
+    ],
+    "counties": [
+      "南投縣",
+      "花蓮縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "安東軍山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-057",
+    "name": "達芬尖山",
+    "regions": [
+      "中部",
+      "南部",
+      "東部"
+    ],
+    "counties": [
+      "南投縣",
+      "高雄市",
+      "花蓮縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "達芬尖山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-058",
+    "name": "塔關山",
+    "regions": [
+      "南部",
+      "東部"
+    ],
+    "counties": [
+      "高雄市",
+      "臺東縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "塔關山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-059",
+    "name": "關山嶺山",
+    "regions": [
+      "南部",
+      "東部"
+    ],
+    "counties": [
+      "高雄市",
+      "臺東縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "關山嶺山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-060",
+    "name": "庫哈諾辛山",
+    "regions": [
+      "南部"
+    ],
+    "counties": [
+      "高雄市"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "庫哈諾辛山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-061",
+    "name": "審馬陣山",
+    "regions": [
+      "中部",
+      "北部",
+      "東部"
+    ],
+    "counties": [
+      "臺中市",
+      "宜蘭縣",
+      "花蓮縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "審馬陣山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-062",
+    "name": "馬比杉山",
+    "regions": [
+      "北部",
+      "東部"
+    ],
+    "counties": [
+      "宜蘭縣",
+      "花蓮縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "馬比杉山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-063",
+    "name": "南湖大山北峰",
+    "regions": [
+      "中部",
+      "北部",
+      "東部"
+    ],
+    "counties": [
+      "臺中市",
+      "宜蘭縣",
+      "花蓮縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "南湖大山北峰"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-064",
+    "name": "南湖大山中南峰",
+    "regions": [
+      "中部",
+      "東部"
+    ],
+    "counties": [
+      "臺中市",
+      "花蓮縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "南湖大山中南峰"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-065",
+    "name": "鈴鳴山",
+    "regions": [
+      "中部",
+      "東部"
+    ],
+    "counties": [
+      "臺中市",
+      "花蓮縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "鈴鳴山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-066",
+    "name": "閂山",
+    "regions": [
+      "中部",
+      "東部"
+    ],
+    "counties": [
+      "臺中市",
+      "花蓮縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "閂山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-067",
+    "name": "甘薯峰",
+    "regions": [
+      "中部",
+      "東部"
+    ],
+    "counties": [
+      "臺中市",
+      "花蓮縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "甘薯峰"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-068",
+    "name": "無明山西峰",
+    "regions": [
+      "中部",
+      "東部"
+    ],
+    "counties": [
+      "臺中市",
+      "花蓮縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "無明山西峰"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-069",
+    "name": "中央尖山東峰",
+    "regions": [
+      "中部",
+      "東部"
+    ],
+    "counties": [
+      "臺中市",
+      "花蓮縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "中央尖山東峰"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-070",
+    "name": "伊澤山",
+    "regions": [
+      "北部",
+      "中部"
+    ],
+    "counties": [
+      "新竹縣",
+      "苗栗縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "伊澤山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-071",
+    "name": "加利山",
+    "regions": [
+      "北部",
+      "中部"
+    ],
+    "counties": [
+      "新竹縣",
+      "苗栗縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "加利山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-072",
+    "name": "大雪山北峰",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "臺中市",
+      "苗栗縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "大雪山北峰"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-073",
+    "name": "中雪山",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "苗栗縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "中雪山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-074",
+    "name": "火石山",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "臺中市",
+      "苗栗縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "火石山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-075",
+    "name": "釜碗山西峰",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "臺中市",
+      "苗栗縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "釜碗山西峰"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-076",
+    "name": "劍山",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "臺中市"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "劍山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-077",
+    "name": "佳陽山",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "臺中市"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "佳陽山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-078",
+    "name": "雪山西峰",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "臺中市",
+      "苗栗縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "雪山西峰"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-079",
+    "name": "大霸尖山東峰",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "新竹縣",
+      "宜蘭縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "大霸尖山東峰"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-080",
+    "name": "牧山",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "南投縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "牧山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-081",
+    "name": "火山",
+    "regions": [
+      "中部",
+      "東部"
+    ],
+    "counties": [
+      "南投縣",
+      "花蓮縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "火山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-082",
+    "name": "丹大山",
+    "regions": [
+      "中部",
+      "東部"
+    ],
+    "counties": [
+      "南投縣",
+      "花蓮縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "丹大山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-083",
+    "name": "內嶺爾山",
+    "regions": [
+      "東部"
+    ],
+    "counties": [
+      "花蓮縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "內嶺爾山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-084",
+    "name": "義西請馬至山",
+    "regions": [
+      "中部",
+      "東部"
+    ],
+    "counties": [
+      "南投縣",
+      "花蓮縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "義西請馬至山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-085",
+    "name": "西巒山西北峰",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "南投縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "西巒山西北峰"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-086",
+    "name": "雙子山",
+    "regions": [
+      "東部"
+    ],
+    "counties": [
+      "花蓮縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "雙子山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-087",
+    "name": "無雙山",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "南投縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "無雙山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-088",
+    "name": "盆駒山",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "南投縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "盆駒山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-089",
+    "name": "馬路巴拉讓山",
+    "regions": [
+      "中部",
+      "東部"
+    ],
+    "counties": [
+      "南投縣",
+      "花蓮縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "馬路巴拉讓山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-090",
+    "name": "南雙頭山",
+    "regions": [
+      "南部",
+      "東部"
+    ],
+    "counties": [
+      "高雄市",
+      "花蓮縣",
+      "臺東縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "南雙頭山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-091",
+    "name": "轆轆山",
+    "regions": [
+      "南部",
+      "東部"
+    ],
+    "counties": [
+      "高雄市",
+      "花蓮縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "轆轆山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-092",
+    "name": "雙頭山西峰",
+    "regions": [
+      "南部",
+      "東部"
+    ],
+    "counties": [
+      "高雄市",
+      "花蓮縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "雙頭山西峰"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-093",
+    "name": "海諾南山",
+    "regions": [
+      "南部",
+      "東部"
+    ],
+    "counties": [
+      "高雄市",
+      "臺東縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "海諾南山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-094",
+    "name": "小關山",
+    "regions": [
+      "南部",
+      "東部"
+    ],
+    "counties": [
+      "高雄市",
+      "臺東縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "小關山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-095",
+    "name": "卑南主山",
+    "regions": [
+      "南部",
+      "東部"
+    ],
+    "counties": [
+      "高雄市",
+      "臺東縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "卑南主山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-096",
+    "name": "溪頭山",
+    "regions": [
+      "南部",
+      "東部"
+    ],
+    "counties": [
+      "高雄市",
+      "臺東縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "溪頭山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-097",
+    "name": "鷹子嘴山",
+    "regions": [
+      "南部",
+      "東部"
+    ],
+    "counties": [
+      "高雄市",
+      "臺東縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "鷹子嘴山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-098",
+    "name": "關山東台",
+    "regions": [
+      "東部"
+    ],
+    "counties": [
+      "臺東縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "關山東台"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-099",
+    "name": "六順山",
+    "regions": [
+      "東部",
+      "中部"
+    ],
+    "counties": [
+      "花蓮縣",
+      "南投縣"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "六順山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "baiyue-100",
+    "name": "鹿山",
+    "regions": [
+      "南部"
+    ],
+    "counties": [
+      "高雄市"
+    ],
+    "categories": [
+      "百岳"
+    ],
+    "mountains": [
+      "鹿山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-001",
+    "name": "大屯山",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "臺北市"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "大屯山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-002",
+    "name": "七星山",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "臺北市"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "七星山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-003",
+    "name": "大武崙山",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "基隆市"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "大武崙山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-004",
+    "name": "槓子寮山",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "基隆市"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "槓子寮山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-005",
+    "name": "觀音山",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "新北市"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "觀音山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-006",
+    "name": "基隆山",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "新北市"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "基隆山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-007",
+    "name": "紅淡山",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "基隆市"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "紅淡山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-008",
+    "name": "大崙頭山",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "臺北市"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "大崙頭山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-009",
+    "name": "劍潭山",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "臺北市"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "劍潭山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-010",
+    "name": "五分山",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "新北市"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "五分山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-011",
+    "name": "姜子寮山",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "基隆市"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "姜子寮山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-012",
+    "name": "大尖山",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "新北市"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "大尖山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-013",
+    "name": "南港山",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "臺北市"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "南港山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-014",
+    "name": "土庫岳",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "新北市"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "土庫岳"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-015",
+    "name": "大棟山",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "桃園市"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "大棟山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-016",
+    "name": "南勢角山",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "新北市"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "南勢角山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-017",
+    "name": "二格山",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "臺北市"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "二格山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-018",
+    "name": "天上山",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "新北市"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "天上山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-019",
+    "name": "福德坑山（鳶山）",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "新北市"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "福德坑山（鳶山）"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-020",
+    "name": "獅仔頭山",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "新北市"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "獅仔頭山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-021",
+    "name": "金面山",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "桃園市"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "金面山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-022",
+    "name": "東眼山",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "桃園市"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "東眼山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-023",
+    "name": "溪洲山",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "桃園市"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "溪洲山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-024",
+    "name": "石門山",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "桃園市"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "石門山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-025",
+    "name": "石牛山",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "新竹縣"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "石牛山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-026",
+    "name": "十八尖山",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "新竹市"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "十八尖山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-027",
+    "name": "中坑山",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "新竹縣"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "中坑山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-028",
+    "name": "李棟山",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "新竹縣"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "李棟山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-030",
+    "name": "五指山",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "新竹縣"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "五指山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-031",
+    "name": "鵝公髻山",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "苗栗縣"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "鵝公髻山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-082",
+    "name": "灣坑頭山",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "宜蘭縣"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "灣坑頭山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-083",
+    "name": "三角崙山",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "新北市"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "三角崙山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-084",
+    "name": "鵲子山",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "宜蘭縣"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "鵲子山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-085",
+    "name": "三星山",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "宜蘭縣"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "三星山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-029",
+    "name": "獅頭山",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "苗栗縣"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "獅頭山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-032",
+    "name": "向天湖山",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "苗栗縣"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "向天湖山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-033",
+    "name": "仙山",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "苗栗縣"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "仙山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-034",
+    "name": "加里山",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "苗栗縣"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "加里山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-035",
+    "name": "火炎山",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "苗栗縣"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "火炎山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-036",
+    "name": "關刀山",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "苗栗縣"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "關刀山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-037",
+    "name": "馬那邦山",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "苗栗縣"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "馬那邦山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-038",
+    "name": "鐵砧山",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "臺中市"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "鐵砧山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-039",
+    "name": "稍來山",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "臺中市"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "稍來山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-040",
+    "name": "聚興山",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "臺中市"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "聚興山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-041",
+    "name": "頭嵙山",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "臺中市"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "頭嵙山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-042",
+    "name": "南觀音山",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "臺中市"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "南觀音山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-043",
+    "name": "三汀山",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "臺中市"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "三汀山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-044",
+    "name": "暗影山",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "臺中市"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "暗影山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-045",
+    "name": "大橫屏山",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "南投縣"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "大橫屏山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-046",
+    "name": "阿罩霧山",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "臺中市"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "阿罩霧山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-047",
+    "name": "九份二山",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "南投縣"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "九份二山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-048",
+    "name": "橫山",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "南投縣"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "橫山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-049",
+    "name": "貓囒山",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "南投縣"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "貓囒山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-050",
+    "name": "集集大山",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "南投縣"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "集集大山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-051",
+    "name": "松柏坑山",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "南投縣"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "松柏坑山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-052",
+    "name": "後尖山",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "南投縣"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "後尖山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-053",
+    "name": "鳳凰山",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "南投縣"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "鳳凰山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-054",
+    "name": "金柑樹山",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "南投縣"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "金柑樹山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-055",
+    "name": "石壁山",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "雲林縣"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "石壁山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-056",
+    "name": "大尖山",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "雲林縣"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "大尖山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-057",
+    "name": "梨子腳山",
+    "regions": [
+      "南部"
+    ],
+    "counties": [
+      "嘉義縣"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "梨子腳山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-058",
+    "name": "獨立山",
+    "regions": [
+      "南部"
+    ],
+    "counties": [
+      "嘉義縣"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "獨立山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-059",
+    "name": "大塔山",
+    "regions": [
+      "南部"
+    ],
+    "counties": [
+      "嘉義縣"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "大塔山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-060",
+    "name": "大凍山",
+    "regions": [
+      "南部"
+    ],
+    "counties": [
+      "嘉義縣"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "大凍山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-061",
+    "name": "大湖尖山",
+    "regions": [
+      "南部"
+    ],
+    "counties": [
+      "嘉義縣"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "大湖尖山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-062",
+    "name": "紅毛埤山",
+    "regions": [
+      "南部"
+    ],
+    "counties": [
+      "嘉義市"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "紅毛埤山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-063",
+    "name": "大棟山",
+    "regions": [
+      "南部"
+    ],
+    "counties": [
+      "嘉義縣"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "大棟山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-064",
+    "name": "崁頭山",
+    "regions": [
+      "南部"
+    ],
+    "counties": [
+      "臺南市"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "崁頭山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-065",
+    "name": "三腳南山",
+    "regions": [
+      "南部"
+    ],
+    "counties": [
+      "嘉義縣"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "三腳南山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-066",
+    "name": "西阿里關山",
+    "regions": [
+      "南部"
+    ],
+    "counties": [
+      "高雄市"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "西阿里關山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-067",
+    "name": "竹子尖山",
+    "regions": [
+      "南部"
+    ],
+    "counties": [
+      "臺南市"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "竹子尖山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-068",
+    "name": "藤枝山",
+    "regions": [
+      "南部"
+    ],
+    "counties": [
+      "高雄市"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "藤枝山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-069",
+    "name": "白雲山",
+    "regions": [
+      "南部"
+    ],
+    "counties": [
+      "高雄市"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "白雲山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-070",
+    "name": "刣牛湖山",
+    "regions": [
+      "南部"
+    ],
+    "counties": [
+      "臺南市"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "刣牛湖山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-071",
+    "name": "鳴海山",
+    "regions": [
+      "南部"
+    ],
+    "counties": [
+      "高雄市"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "鳴海山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-072",
+    "name": "旗尾山",
+    "regions": [
+      "南部"
+    ],
+    "counties": [
+      "高雄市"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "旗尾山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-073",
+    "name": "尾寮山",
+    "regions": [
+      "南部"
+    ],
+    "counties": [
+      "屏東縣"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "尾寮山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-074",
+    "name": "大崗山",
+    "regions": [
+      "南部"
+    ],
+    "counties": [
+      "高雄市"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "大崗山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-075",
+    "name": "觀音山",
+    "regions": [
+      "南部"
+    ],
+    "counties": [
+      "高雄市"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "觀音山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-076",
+    "name": "笠頂山",
+    "regions": [
+      "南部"
+    ],
+    "counties": [
+      "屏東縣"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "笠頂山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-077",
+    "name": "壽山",
+    "regions": [
+      "南部"
+    ],
+    "counties": [
+      "高雄市"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "壽山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-078",
+    "name": "棚集山",
+    "regions": [
+      "南部"
+    ],
+    "counties": [
+      "屏東縣"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "棚集山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-079",
+    "name": "女仍山",
+    "regions": [
+      "南部"
+    ],
+    "counties": [
+      "屏東縣"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "女仍山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-080",
+    "name": "里龍山",
+    "regions": [
+      "南部"
+    ],
+    "counties": [
+      "屏東縣"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "里龍山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-081",
+    "name": "大山母山",
+    "regions": [
+      "南部"
+    ],
+    "counties": [
+      "屏東縣"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "大山母山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-086",
+    "name": "卡拉寶山",
+    "regions": [
+      "東部"
+    ],
+    "counties": [
+      "花蓮縣"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "卡拉寶山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-087",
+    "name": "立霧山",
+    "regions": [
+      "東部"
+    ],
+    "counties": [
+      "花蓮縣"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "立霧山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-088",
+    "name": "初音山",
+    "regions": [
+      "東部"
+    ],
+    "counties": [
+      "花蓮縣"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "初音山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-089",
+    "name": "鯉魚山",
+    "regions": [
+      "東部"
+    ],
+    "counties": [
+      "花蓮縣"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "鯉魚山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-090",
+    "name": "月眉山",
+    "regions": [
+      "東部"
+    ],
+    "counties": [
+      "花蓮縣"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "月眉山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-091",
+    "name": "八里灣山",
+    "regions": [
+      "東部"
+    ],
+    "counties": [
+      "花蓮縣"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "八里灣山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-092",
+    "name": "萬人山",
+    "regions": [
+      "東部"
+    ],
+    "counties": [
+      "花蓮縣"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "萬人山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-093",
+    "name": "都蘭山",
+    "regions": [
+      "東部"
+    ],
+    "counties": [
+      "臺東縣"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "都蘭山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-094",
+    "name": "太麻里山",
+    "regions": [
+      "東部"
+    ],
+    "counties": [
+      "臺東縣"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "太麻里山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-095",
+    "name": "加奈美山",
+    "regions": [
+      "東部"
+    ],
+    "counties": [
+      "臺東縣"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "加奈美山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-096",
+    "name": "巴塱衛山",
+    "regions": [
+      "東部"
+    ],
+    "counties": [
+      "臺東縣"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "巴塱衛山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-097",
+    "name": "紅頭山",
+    "regions": [
+      "東部"
+    ],
+    "counties": [
+      "臺東縣"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "紅頭山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-098",
+    "name": "雲台山",
+    "regions": [
+      "離島"
+    ],
+    "counties": [
+      "連江縣"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "雲台山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-099",
+    "name": "太武山",
+    "regions": [
+      "離島"
+    ],
+    "counties": [
+      "金門縣"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "太武山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "xiaobaiyue-100",
+    "name": "蛇頭山",
+    "regions": [
+      "離島"
+    ],
+    "counties": [
+      "澎湖縣"
+    ],
+    "categories": [
+      "小百岳"
+    ],
+    "mountains": [
+      "蛇頭山"
+    ],
+    "difficulty": "待補",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 1 階段名錄收錄（小百岳）。路線、申請與里程等細節待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-north-001",
+    "name": "金字碑古道（示範段）",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "新北市"
+    ],
+    "categories": [
+      "古道"
+    ],
+    "mountains": [
+      "金字碑古道"
+    ],
+    "difficulty": "中等",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段北部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-north-002",
+    "name": "燦光寮古道（示範段）",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "新北市"
+    ],
+    "categories": [
+      "古道"
+    ],
+    "mountains": [
+      "燦光寮古道"
+    ],
+    "difficulty": "中等",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段北部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-north-003",
+    "name": "魚路古道北段（示範段）",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "臺北市",
+      "新北市"
+    ],
+    "categories": [
+      "古道"
+    ],
+    "mountains": [
+      "魚路古道北段"
+    ],
+    "difficulty": "中等",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段北部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-north-004",
+    "name": "坪溪古道（示範段）",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "新北市"
+    ],
+    "categories": [
+      "古道"
+    ],
+    "mountains": [
+      "坪溪古道"
+    ],
+    "difficulty": "中等",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段北部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-north-005",
+    "name": "三貂嶺古道（示範段）",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "新北市"
+    ],
+    "categories": [
+      "古道"
+    ],
+    "mountains": [
+      "三貂嶺古道"
+    ],
+    "difficulty": "中等",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段北部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-north-006",
+    "name": "哈盆越嶺古道（示範段）",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "新北市"
+    ],
+    "categories": [
+      "古道"
+    ],
+    "mountains": [
+      "哈盆越嶺古道"
+    ],
+    "difficulty": "困難",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段北部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-north-007",
+    "name": "淡蘭古道中路（示範段）",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "新北市"
+    ],
+    "categories": [
+      "古道"
+    ],
+    "mountains": [
+      "淡蘭古道中路"
+    ],
+    "difficulty": "中等",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段北部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-north-008",
+    "name": "鼻頭角步道",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "新北市"
+    ],
+    "categories": [
+      "自然步道"
+    ],
+    "mountains": [
+      "鼻頭角步道"
+    ],
+    "difficulty": "簡單",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段北部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-north-009",
+    "name": "龍洞灣岬步道",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "新北市"
+    ],
+    "categories": [
+      "自然步道"
+    ],
+    "mountains": [
+      "龍洞灣岬步道"
+    ],
+    "difficulty": "簡單",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段北部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-north-010",
+    "name": "觀霧檜山巨木群步道",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "新竹縣"
+    ],
+    "categories": [
+      "自然步道"
+    ],
+    "mountains": [
+      "觀霧檜山巨木群步道"
+    ],
+    "difficulty": "中等",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段北部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-north-011",
+    "name": "滿月圓森林步道",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "新北市"
+    ],
+    "categories": [
+      "自然步道"
+    ],
+    "mountains": [
+      "滿月圓森林步道"
+    ],
+    "difficulty": "簡單",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段北部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-north-012",
+    "name": "內洞森林步道",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "新北市"
+    ],
+    "categories": [
+      "自然步道"
+    ],
+    "mountains": [
+      "內洞森林步道"
+    ],
+    "difficulty": "簡單",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段北部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-north-013",
+    "name": "拉拉山神木步道",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "桃園市"
+    ],
+    "categories": [
+      "自然步道"
+    ],
+    "mountains": [
+      "拉拉山神木步道"
+    ],
+    "difficulty": "簡單",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段北部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-north-014",
+    "name": "福巴越嶺步道（示範段）",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "桃園市",
+      "新竹縣"
+    ],
+    "categories": [
+      "自然步道"
+    ],
+    "mountains": [
+      "福巴越嶺步道"
+    ],
+    "difficulty": "中等",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段北部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-north-015",
+    "name": "軍艦岩親山步道",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "臺北市"
+    ],
+    "categories": [
+      "郊山"
+    ],
+    "mountains": [
+      "軍艦岩親山步道"
+    ],
+    "difficulty": "簡單",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段北部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-north-016",
+    "name": "天母古道親山步道",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "臺北市"
+    ],
+    "categories": [
+      "郊山"
+    ],
+    "mountains": [
+      "天母古道親山步道"
+    ],
+    "difficulty": "簡單",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段北部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-north-017",
+    "name": "仙跡岩步道",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "臺北市"
+    ],
+    "categories": [
+      "郊山"
+    ],
+    "mountains": [
+      "仙跡岩步道"
+    ],
+    "difficulty": "簡單",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段北部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-north-018",
+    "name": "忠義山步道",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "臺北市"
+    ],
+    "categories": [
+      "郊山"
+    ],
+    "mountains": [
+      "忠義山步道"
+    ],
+    "difficulty": "簡單",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段北部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-north-019",
+    "name": "皇帝殿東西峰步道",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "新北市"
+    ],
+    "categories": [
+      "郊山"
+    ],
+    "mountains": [
+      "皇帝殿東西峰步道"
+    ],
+    "difficulty": "中等",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段北部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-north-020",
+    "name": "五寮尖登山步道",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "新北市"
+    ],
+    "categories": [
+      "郊山"
+    ],
+    "mountains": [
+      "五寮尖登山步道"
+    ],
+    "difficulty": "中等",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段北部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-north-021",
+    "name": "大溝溪治山步道",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "臺北市"
+    ],
+    "categories": [
+      "郊山"
+    ],
+    "mountains": [
+      "大溝溪治山步道"
+    ],
+    "difficulty": "簡單",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段北部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-north-022",
+    "name": "石門青山瀑布步道",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "新北市"
+    ],
+    "categories": [
+      "自然步道"
+    ],
+    "mountains": [
+      "石門青山瀑布步道"
+    ],
+    "difficulty": "簡單",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段北部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-north-023",
+    "name": "林美石磐步道",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "宜蘭縣"
+    ],
+    "categories": [
+      "自然步道"
+    ],
+    "mountains": [
+      "林美石磐步道"
+    ],
+    "difficulty": "簡單",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段北部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-north-024",
+    "name": "松羅步道",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "宜蘭縣"
+    ],
+    "categories": [
+      "自然步道"
+    ],
+    "mountains": [
+      "松羅步道"
+    ],
+    "difficulty": "簡單",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段北部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-north-025",
+    "name": "拳頭姆自然步道",
+    "regions": [
+      "北部"
+    ],
+    "counties": [
+      "宜蘭縣"
+    ],
+    "categories": [
+      "自然步道"
+    ],
+    "mountains": [
+      "拳頭姆自然步道"
+    ],
+    "difficulty": "中等",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段北部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-central-001",
+    "name": "八通關古道（東段示範）",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "南投縣",
+      "花蓮縣"
+    ],
+    "categories": [
+      "古道"
+    ],
+    "mountains": [
+      "八通關古道（東段示範）"
+    ],
+    "difficulty": "困難",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段中部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-central-002",
+    "name": "能高越嶺道西段（示範）",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "南投縣"
+    ],
+    "categories": [
+      "古道"
+    ],
+    "mountains": [
+      "能高越嶺道西段"
+    ],
+    "difficulty": "中等",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段中部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-central-003",
+    "name": "合歡越嶺古道（示範段）",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "南投縣",
+      "花蓮縣"
+    ],
+    "categories": [
+      "古道"
+    ],
+    "mountains": [
+      "合歡越嶺古道"
+    ],
+    "difficulty": "中等",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段中部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-central-004",
+    "name": "鹿港古道（示範段）",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "南投縣"
+    ],
+    "categories": [
+      "古道"
+    ],
+    "mountains": [
+      "鹿港古道"
+    ],
+    "difficulty": "中等",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段中部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-central-005",
+    "name": "郡大林道歷史路段（示範）",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "南投縣"
+    ],
+    "categories": [
+      "古道"
+    ],
+    "mountains": [
+      "郡大林道歷史路段"
+    ],
+    "difficulty": "中等",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段中部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-central-006",
+    "name": "谷關七雄舊道串聯（示範）",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "臺中市"
+    ],
+    "categories": [
+      "古道"
+    ],
+    "mountains": [
+      "谷關七雄舊道串聯"
+    ],
+    "difficulty": "困難",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段中部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-central-007",
+    "name": "大坑步道 1-4 號（示範段）",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "臺中市"
+    ],
+    "categories": [
+      "古道"
+    ],
+    "mountains": [
+      "大坑步道 1-4 號"
+    ],
+    "difficulty": "中等",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段中部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-central-008",
+    "name": "武界越嶺古道路段（示範）",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "南投縣"
+    ],
+    "categories": [
+      "古道"
+    ],
+    "mountains": [
+      "武界越嶺古道路段"
+    ],
+    "difficulty": "中等",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段中部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-central-009",
+    "name": "奧萬大森林遊樂區步道群（示範）",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "南投縣"
+    ],
+    "categories": [
+      "自然步道"
+    ],
+    "mountains": [
+      "奧萬大森林遊樂區步道群"
+    ],
+    "difficulty": "簡單",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段中部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-central-010",
+    "name": "溪頭神木與大學池步道（示範）",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "南投縣"
+    ],
+    "categories": [
+      "自然步道"
+    ],
+    "mountains": [
+      "溪頭神木與大學池步道"
+    ],
+    "difficulty": "簡單",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段中部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-central-011",
+    "name": "杉林溪天地眼步道（示範）",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "南投縣"
+    ],
+    "categories": [
+      "自然步道"
+    ],
+    "mountains": [
+      "杉林溪天地眼步道"
+    ],
+    "difficulty": "中等",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段中部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-central-012",
+    "name": "忘憂森林周邊步道（示範）",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "南投縣"
+    ],
+    "categories": [
+      "自然步道"
+    ],
+    "mountains": [
+      "忘憂森林周邊步道"
+    ],
+    "difficulty": "中等",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段中部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-central-013",
+    "name": "大雪山國家森林步道群（示範）",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "臺中市"
+    ],
+    "categories": [
+      "自然步道"
+    ],
+    "mountains": [
+      "大雪山國家森林步道群"
+    ],
+    "difficulty": "中等",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段中部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-central-014",
+    "name": "東勢林場森林步道（示範）",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "臺中市"
+    ],
+    "categories": [
+      "自然步道"
+    ],
+    "mountains": [
+      "東勢林場森林步道"
+    ],
+    "difficulty": "簡單",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段中部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-central-015",
+    "name": "日月潭環湖步道（示範段）",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "南投縣"
+    ],
+    "categories": [
+      "自然步道"
+    ],
+    "mountains": [
+      "日月潭環湖步道"
+    ],
+    "difficulty": "簡單",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段中部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-central-016",
+    "name": "埔里虎頭山自然步道",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "南投縣"
+    ],
+    "categories": [
+      "自然步道"
+    ],
+    "mountains": [
+      "埔里虎頭山自然步道"
+    ],
+    "difficulty": "簡單",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段中部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-central-017",
+    "name": "阿里山溪森林步道（示範）",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "雲林縣"
+    ],
+    "categories": [
+      "自然步道"
+    ],
+    "mountains": [
+      "阿里山溪森林步道"
+    ],
+    "difficulty": "中等",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段中部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-central-018",
+    "name": "九九峰森林步道（示範）",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "南投縣"
+    ],
+    "categories": [
+      "郊山"
+    ],
+    "mountains": [
+      "九九峰森林步道"
+    ],
+    "difficulty": "中等",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段中部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-central-019",
+    "name": "頭嵙山稜線步道（示範）",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "臺中市"
+    ],
+    "categories": [
+      "郊山"
+    ],
+    "mountains": [
+      "頭嵙山稜線步道"
+    ],
+    "difficulty": "中等",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段中部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-central-020",
+    "name": "鐵砧山風景區步道",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "臺中市"
+    ],
+    "categories": [
+      "郊山"
+    ],
+    "mountains": [
+      "鐵砧山風景區步道"
+    ],
+    "difficulty": "簡單",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段中部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-central-021",
+    "name": "鰲峰山觀景步道",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "臺中市"
+    ],
+    "categories": [
+      "郊山"
+    ],
+    "mountains": [
+      "鰲峰山觀景步道"
+    ],
+    "difficulty": "簡單",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段中部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-central-022",
+    "name": "大肚山縱走步道（示範段）",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "臺中市"
+    ],
+    "categories": [
+      "郊山"
+    ],
+    "mountains": [
+      "大肚山縱走步道"
+    ],
+    "difficulty": "中等",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段中部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-central-023",
+    "name": "八卦山脈步道系統（示範段）",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "彰化縣"
+    ],
+    "categories": [
+      "郊山"
+    ],
+    "mountains": [
+      "八卦山脈步道系統"
+    ],
+    "difficulty": "簡單",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段中部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-central-024",
+    "name": "獅頭山風景區步道（中部段示範）",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "苗栗縣"
+    ],
+    "categories": [
+      "郊山"
+    ],
+    "mountains": [
+      "獅頭山風景區步道"
+    ],
+    "difficulty": "中等",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段中部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  },
+  {
+    "id": "phase2-central-025",
+    "name": "火炎山稜線步道（示範段）",
+    "regions": [
+      "中部"
+    ],
+    "counties": [
+      "苗栗縣"
+    ],
+    "categories": [
+      "郊山"
+    ],
+    "mountains": [
+      "火炎山稜線步道"
+    ],
+    "difficulty": "中等",
+    "distanceKm": null,
+    "elevationGainM": null,
+    "estimatedHours": null,
+    "permitRequired": false,
+    "sourceUrl": "",
+    "notes": "第 2 階段中部批次資料。先收錄路線名錄與分類，里程、爬升、時間、申請規定與開放狀態待依官方來源逐筆核對。",
+    "lastVerified": "2026-09-14"
+  }
+]

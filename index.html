@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>台灣登山紀錄簿</title>
+    <meta
+      name="description"
+      content="台灣登山紀錄簿：以本機瀏覽器儲存個人古道、自然步道、百岳、小百岳、郊山完成紀錄，並提供進度統計與 JSON 備份還原。"
+    />
+    <link
+      rel="icon"
+      type="image/svg+xml"
+      href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Cpath fill='%23384f37' d='M4 52 22 20l10 18 6-10 22 24H4z'/%3E%3C/svg%3E"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <a class="skip-link" href="#main-content">跳到主要內容</a>
+    <header class="site-header">
+      <h1>台灣登山紀錄簿</h1>
+      <p class="subtitle">古道、自然步道、百岳、小百岳、郊山的個人離線紀錄工具</p>
+    </header>
+
+    <main id="main-content" class="container">
+      <section class="panel" aria-labelledby="summary-title">
+        <h2 id="summary-title">整體進度</h2>
+        <div class="stats-grid" id="top-stats" aria-live="polite"></div>
+        <div class="progress-list" id="category-progress" aria-live="polite"></div>
+      </section>
+
+      <section class="panel" aria-labelledby="filter-title">
+        <h2 id="filter-title">搜尋與篩選</h2>
+        <div class="filters">
+          <label>
+            <span>文字搜尋</span>
+            <input id="search-input" type="search" placeholder="搜尋路線、山名、縣市" />
+          </label>
+          <label>
+            <span>分類</span>
+            <select id="category-filter"></select>
+          </label>
+          <label>
+            <span>地區</span>
+            <select id="region-filter"></select>
+          </label>
+          <label>
+            <span>縣市</span>
+            <select id="county-filter"></select>
+          </label>
+          <label>
+            <span>狀態</span>
+            <select id="status-filter"></select>
+          </label>
+          <button id="clear-filters" type="button">清除篩選</button>
+        </div>
+        <p id="result-count" class="result-count" aria-live="polite"></p>
+      </section>
+
+      <section class="panel" aria-labelledby="routes-title">
+        <h2 id="routes-title">路線清單</h2>
+        <div id="routes-container" class="card-grid" aria-live="polite"></div>
+      </section>
+
+      <section class="panel" aria-labelledby="data-title">
+        <h2 id="data-title">資料管理</h2>
+        <p class="notice">
+          你的紀錄只存在目前瀏覽器 localStorage，不會自動上傳。請定期匯出 JSON 備份。
+        </p>
+        <div class="data-actions">
+          <button id="export-btn" type="button">匯出我的紀錄</button>
+          <label class="file-input-label" for="import-file">匯入我的紀錄檔案</label>
+          <input id="import-file" type="file" accept="application/json" />
+          <fieldset>
+            <legend>匯入模式（匯入前會再次確認）</legend>
+            <label><input type="radio" name="import-mode" value="merge" checked /> 合併</label>
+            <label><input type="radio" name="import-mode" value="overwrite" /> 覆蓋</label>
+          </fieldset>
+          <button id="import-btn" type="button">開始匯入</button>
+          <button id="clear-records-btn" type="button" class="danger">清除所有本機紀錄</button>
+        </div>
+        <p id="data-message" class="data-message" role="status" aria-live="polite"></p>
+      </section>
+    </main>
+
+    <dialog id="route-modal" aria-labelledby="modal-title">
+      <form method="dialog" class="modal-close-row">
+        <button type="submit" aria-label="關閉視窗">✕</button>
+      </form>
+      <div id="modal-content"></div>
+    </dialog>
+
+    <template id="visit-form-template">
+      <form id="visit-form" class="visit-form">
+        <input type="hidden" id="visit-id" />
+        <label>
+          <span>日期</span>
+          <input id="visit-date" type="date" required />
+        </label>
+        <label>
+          <span>天氣</span>
+          <input id="visit-weather" type="text" placeholder="例如：晴、陰、雨" />
+        </label>
+        <label>
+          <span>同行者</span>
+          <input id="visit-companions" type="text" placeholder="例如：自己、家人、朋友" />
+        </label>
+        <label>
+          <span>心得</span>
+          <textarea id="visit-notes" rows="4" placeholder="路況、觀景、體感等"></textarea>
+        </label>
+        <label>
+          <span>照片網址（每行一個）</span>
+          <textarea id="visit-photos" rows="3" placeholder="https://example.com/photo1.jpg"></textarea>
+        </label>
+        <div class="form-actions">
+          <button id="save-visit-btn" type="submit">新增紀錄</button>
+          <button id="cancel-edit-btn" type="button">取消編輯</button>
+        </div>
+      </form>
+    </template>
+
+    <script src="app.js" defer></script>
+  </body>
+</html>
